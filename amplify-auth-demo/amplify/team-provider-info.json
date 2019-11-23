@@ -1,0 +1,21 @@
+{
+    "locallinux": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyauth-locallinux-151216-authRole",
+            "UnauthRoleArn": "arn:aws:iam::279753420091:role/amplify-amplifyauth-locallinux-151216-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::279753420091:role/amplify-amplifyauth-locallinux-151216-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifyauth-locallinux-151216-deployment",
+            "UnauthRoleName": "amplify-amplifyauth-locallinux-151216-unauthRole",
+            "StackName": "amplify-amplifyauth-locallinux-151216",
+            "StackId": "arn:aws:cloudformation:us-east-1:279753420091:stack/amplify-amplifyauth-locallinux-151216/b11f75b0-0e46-11ea-85ed-0e353767367b"
+        },
+        "categories": {
+            "auth": {
+                "amplifyauth07d94840": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"475995193018169\",\"client_secret\":\"d710790b84a26b545c47845daec140b9\"},{\"ProviderName\":\"Google\",\"client_id\":\"938209951755-vcfpj1idukt4dgfv3gau3pnpr6clkmm8.apps.googleusercontent.com\",\"client_secret\":\"fp2SdrYVCBjN2CN8rQlh4ngI\"}]"
+                }
+            }
+        }
+    }
+}
